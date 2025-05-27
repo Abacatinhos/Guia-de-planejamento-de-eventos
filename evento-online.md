@@ -6,7 +6,7 @@ Sugestão para organização de eventos online
 
 ### 0. Planeje o que fazer neste evento
 
-Você pode se organizar com temas de acordo com pedidos da comunidade, assuntos em alta, novas funcionalidades do GitHub, entre outros. O importante é sempre manter pelo menos um conteúdo com o tema de Open Source e tomar cuidado em relação aos outros temas escolhidos para que não sejam conflitantes com a empresa GitHub. Se necessário, valide com a pessoa responsável do GitHub.
+Você pode se organizar com temas de acordo com pedidos da comunidade, assuntos em alta, novas tecnologias ou ferramentas relevantes para sua área, entre outros. O importante é sempre manter o foco no tema principal da sua comunidade e tomar cuidado em relação aos outros temas escolhidos para que sejam apropriados e alinhados com os valores da comunidade. Se necessário, valide com outras pessoas organizadoras ou lideranças da comunidade.
 
 ### 1. Planeje uma previsão de data, horário e possível duração do evento
 
@@ -30,17 +30,17 @@ Também é importante pedir informações das pessoas palestrantes para que voc�
 
 É importante considerar sempre a diversidade na hora de trazer pessoas palestrantes para os eventos.
 
-### 4. Crie ou solicite que seja criado o evento no meetup oficial
+### 4. Crie ou solicite que seja criado o evento na plataforma oficial
 
-Veja com a pessoa responsável pelo site do Meetup.com para a criação do evento dentro da plataforma para que as pessoas possam se inscrever. Caso já tenha as pessoas palestrantes e temas, disponibilize a agenda.
+Veja com as pessoas responsáveis pela plataforma oficial da comunidade (Meetup.com, Eventbrite, ou outra plataforma escolhida) para a criação do evento para que as pessoas possam se inscrever. Caso já tenha as pessoas palestrantes e temas, disponibilize a agenda.
 
 ### 5. Planeje a divulgação do evento para inscrições
 
 Lembre-se de divulgar nas redes sociais, comunidades e onde mais for possível fazer esse processo.
 
-### 6. Valide se as pessoas palestrantes conhecem o StreamYard
+### 6. Valide se as pessoas palestrantes conhecem a ferramenta de transmissão
 
-Se necessário, combine um dia ou horário para você apresentar o funcionamento e já fazer testes de internet, áudio, vídeo e compartilhamento de tela.
+Se necessário, combine um dia ou horário para você apresentar o funcionamento da ferramenta escolhida (StreamYard, Zoom, Google Meet, etc.) e já fazer testes de internet, áudio, vídeo e compartilhamento de tela.
 
 ## 📝 Passo a Passo Durante o Evento
 
@@ -55,7 +55,7 @@ Faça a abertura do evento se apresentando e contando um pouco sobre a comunidad
 
 ### 2. Faça um encerramento
 
-É importante trazer os agradecimentos no final, até mesmo pedir que as pessoas acompanhem a página no meetup.com para saberem dos próximos eventos. Talvez deixar em aberto para que tragam sugestões para você sobre temas e pessoas para convidar, ou até mesmo espaços para realizar outros eventos.
+É importante trazer os agradecimentos no final, até mesmo pedir que as pessoas acompanhem os canais oficiais da comunidade para saberem dos próximos eventos. Talvez deixar em aberto para que tragam sugestões para você sobre temas e pessoas para convidar, ou até mesmo espaços para realizar outros eventos.
 
 ---
 
