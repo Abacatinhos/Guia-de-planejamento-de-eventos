@@ -1,6 +1,7 @@
 # 🗺️ Guia de Planejamento de Eventos
 
 Um guia completo e prático para planejamento e organização de eventos, sejam eles online ou presenciais. Este repositório contém instruções detalhadas, checklists e dicas essenciais para organizar eventos de tecnologia e comunidades.
+Guia criado por @morgannadev
 
 ## 📋 Sobre este Guia
 
